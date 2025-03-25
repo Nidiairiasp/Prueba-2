@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@400;700&display=swap');
+
+
+:root{
+	--menu-hover:#FE8F01;
+	--color-general:#898989;
+	--color-titulos:#282d33;
+	--color-iconos: #e0e0e0;
+	--color-checks:#53c3c9;
+}
+body{
+	font-size: 14px;
+}
+
+header{
+	background-color: #FFF;
+	padding: 5px 0;
+	border-bottom:1px solid #eee;
+	margin-bottom:10px;
+}
+
+.section
+#hero{
+    padding: 100px 40px 60px 0;
+    text-align: center;	
+	background-size: cover;
+	
+	
+}
+
+
+#cta {
+    background: url("../img/using-touchscreen.jpg") no-repeat center center/cover;
+    color: #FFFFFF;
+    padding: 100px 20px;
+    position: relative;
+}
+
+
+.container-fluid {
+    position: relative;
+}
+
+.btn-primary {
+    background:transparent;
+    color: #FFFFFF;
+    padding: 12px 24px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 50px;
+	
+	 }
+  
+	.icono-gris{
+	color: #e0e0e0;
+	width: 400px;
+	height: 360px;
+	line-height: 500px;
+	border-radius: 100%;
+	text-align: center;
+	font-size: 90px;
+	margin-bottom: 20px; 
+
+	
+}
+
+.check{
+color: #53c3c9;
+text-align: center;
+font-size: 40px;
+	
+}
+
+#services {
+    background-color: var(--fondo-gris);
+    padding: 80px 20px;
+    text-align: center;
+
+
+}
+
+
+
+
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+}
+
